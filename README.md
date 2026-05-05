@@ -21,3 +21,11 @@ This project performs Exploratory Data Analysis (EDA) on an HR dataset to unders
 
 ## 🚀 How to Run
 Open the notebook and run all cells
+
+
+## 📊 Key Findings
+
+- **Total employees analyzed:** 14,999  
+- **Employees left:** 3,571 (~24%)  
+- **Employees with less than 3 projects showed high attrition (~66%)**  
+- **Low satisfaction, low salary, and workload imbalance are major attrition factors**
